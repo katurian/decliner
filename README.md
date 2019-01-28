@@ -1,4 +1,3 @@
-
 Works for any Latin noun regardless of gender, number, case, or declension. Will later develop an in-browser game for students.
 
 # Directions
