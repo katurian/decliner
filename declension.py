@@ -15,7 +15,6 @@ plural = "plural"
 
 
 def decline(noun, case, number):
-    
     decliner = CollatinusDecliner()
     list = decliner.decline(noun, flatten=True)
     if case == nominative and number == singular:
