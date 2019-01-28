@@ -1,5 +1,5 @@
 # Introduction
-This function can decline any Latin noun regardless of gender, number, case, or declension. 
+This function can decline any Latin noun regardless of gender, number, case, or declension. Install the Classical Language Toolkit with pip before running declension.py
 
 # Directions
 1.  Type the nominative form of any noun into the quotes.
