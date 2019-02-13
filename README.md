@@ -13,5 +13,3 @@ game.py is little command-line game you can use to practice your Latin noun decl
 1.  The game will print a randomly generated question in this format: "What is regina in the dative singular form?".
 2.  Input the requested form. For example, regina in the dative singular would be **reginae**. So I'll type in "reginae".
 3.  Press enter to send your answer, and the program will check it.
-
-Currently working on game.js so I can put this on a web browser.
